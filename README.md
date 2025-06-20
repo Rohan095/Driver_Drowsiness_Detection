@@ -36,8 +36,8 @@ Before running the system, ensure you have:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/drowsiness-detection.git
-   cd drowsiness-detection
+   git clone https://github.com/Rohan095/Driver_Drowsiness_Detection
+   cd Driver_Drowsiness_Detection
    ```
 
 2. **Install required packages:**
@@ -58,7 +58,7 @@ Before running the system, ensure you have:
 
 1. **Run the system:**
    ```bash
-   python drowsiness_detection.py
+   python Drowsiness_Detection.py
    ```
 
 2. **Position yourself in front of the camera:**
@@ -143,14 +143,14 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 - [dlib library](http://dlib.net/) for facial landmark detection
 - [OpenCV community](https://opencv.org/) for computer vision tools
 - Research papers on Eye Aspect Ratio for drowsiness detection
-- Contributors and testers who helped improve the system
+- Mentor and testers who helped improve the system
 
 ## 📞 Support
 
 If you encounter any issues or have questions, please:
 - Check the troubleshooting section above
 - Open an issue on GitHub
-- Contact the maintainer
+- Contact me at rohanagrawal90456@gmail.com
 
 ---
 
